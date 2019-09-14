@@ -1,7 +1,7 @@
 body{
     display: flex;
     margin: 5em ;
-background: url("src/Krusty.gif") no-repeat center center fixed;
+background: url("images/Krusty.gif") no-repeat center center fixed;
 
 
 background-size: cover;
